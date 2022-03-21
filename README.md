@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Kosei Ban ☺️
+
+I love iOS & Mobile Apps!!
+
+![DSC_0061](https://user-images.githubusercontent.com/64409793/159376291-7d3fdb90-417b-406c-b36a-4617fdb4edf0.JPG)
+
+
+
 
 <!--
 **Kosei-b/Kosei-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
