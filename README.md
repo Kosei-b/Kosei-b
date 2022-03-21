@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Kosei Ban ☺️
+### Hi there 👋 I'm Kosei Ban ☺️ iOS Developer 
 
-I love iOS & Mobile Apps!!
-
-![DSC_0061](https://user-images.githubusercontent.com/64409793/159376291-7d3fdb90-417b-406c-b36a-4617fdb4edf0.JPG)
+### I love iOS & Mobile Apps!!
 
 
 
