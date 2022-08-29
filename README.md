@@ -2,10 +2,10 @@
 <h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  </h3>
 
 <p align="center">
-<a href="" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/64409793/187145988-59a2a491-46c4-494e-a416-c49524245354.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kosei-ban-921081233/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/koseibbb/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/64409793/187145134-fa741fb6-8568-45c0-a94d-48abc70d8af3.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/86p7cb2nxhn49u2nchn0627rf" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/64409793/187145946-9ec5ed6c-2f9a-482e-9963-340fa1c12b6c.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/64409793/187145988-59a2a491-46c4-494e-a416-c49524245354.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kosei-ban-921081233/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/koseibbb/" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/64409793/187145134-fa741fb6-8568-45c0-a94d-48abc70d8af3.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/86p7cb2nxhn49u2nchn0627rf" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/64409793/187145946-9ec5ed6c-2f9a-482e-9963-340fa1c12b6c.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center"><img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"  width="350" ></p>
