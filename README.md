@@ -1,7 +1,15 @@
-<h1 ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
-<h3 >iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
+<h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
+<h3 align="center">
+<a href="" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+ 
+ 
+ </h3>
 
 <h1 align="center"><img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"  width="350" ></h1>
+
+
  
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s"> 
 
