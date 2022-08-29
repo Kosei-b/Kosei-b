@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
-<h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
+<h1 ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
+<h3 >iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 
 <h1 align="center"><img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"  width="350" ></h1>
  
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s"> 
 
-
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
 - 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
 
