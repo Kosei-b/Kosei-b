@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
-<h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi,I'm Kosei Ban 👋</h1>
+<h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  </h3>
 
 <p align="center">
 <a href="" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/64409793/187145988-59a2a491-46c4-494e-a416-c49524245354.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
