@@ -1,5 +1,5 @@
-<h1 align="center">Hi,I'm Kosei Ban 👋,</h1>
-<h3 align="center">iOS / Mobile Developer</h3>
+<h1>Hi,I'm Kosei Ban 👋,</h1>
+<h3>iOS / Mobile Developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
