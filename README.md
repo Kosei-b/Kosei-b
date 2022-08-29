@@ -20,7 +20,7 @@
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s" width="300" > 
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
-- 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
+- 📄 Know about my experiences [Resume]()
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
 - 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
