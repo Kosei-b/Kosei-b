@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,I'm Kosei Ban 👋</h1>
 <h3>iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
  
+![image](https://user-images.githubusercontent.com/64409793/187134218-ede9445c-598c-4c9a-8736-bcf3b143359e.png)
+
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
