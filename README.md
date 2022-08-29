@@ -10,5 +10,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kosei-b&theme=merko)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabefumi&theme=dracula)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosei-b&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosei-b&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
