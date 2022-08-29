@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kosei Ban</h1>
+<h1 align="center">Hi,I'm Kosei Ban 👋,</h1>
 <h3 align="center">iOS / Mobile Developer</h3>
 
 
