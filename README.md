@@ -2,9 +2,9 @@
 <h3>iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 
 
-<img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"/> 
+<img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"> 
  
-<img src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s"/> 
+<img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s"> 
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
