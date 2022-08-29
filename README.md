@@ -8,6 +8,10 @@
 <a href="https://open.spotify.com/user/86p7cb2nxhn49u2nchn0627rf" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/64409793/187145946-9ec5ed6c-2f9a-482e-9963-340fa1c12b6c.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<P align="center">
+    <img height="20" src=https://komarev.com/ghpvc/?username=Kosei-b&style=flat-square>
+    <img height="20" src="https://img.shields.io/github/followers/Kosei-b?label=follow&logo=github&style=flat" />
+</p>
 <p align="center"><img src="https://media0.giphy.com/media/l3q2xAWUrgBz8wYvK/giphy.gif?cid=ecf05e470g8ripdlx84luqh04qdy1mg22t30c3e0cbwiuhty&rid=giphy.gif&ct=g"  width="350" ></p>
 
 
