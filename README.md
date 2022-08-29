@@ -2,7 +2,7 @@
 <h3 align="center">iOS / Mobile Developer!</h3>
 
 
-- 👨‍💻 All of my projects are available at [Portfolio]((http://http://kosei-ban-portofolio.me/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
 
 - 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
 
