@@ -20,19 +20,21 @@
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s" width="300" > 
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
-- 📄 Know about my experiences [Resume]()
-- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
-- 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
-- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
-- 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
-- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
-- 📄 Know about my experiences [Resume](http://takafumiblog.com/wp-content/uploads/2022/04/resume.pdf)
-- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
 
-<p>   </p>
-<p>   </p>
-<p>   </p>
-<p>   </p>
+- 📄 Know about my experiences [Resume]()
+
+- 🔭 I’m currently working on **iOS App Development**
+
+- 🌱 I’m currently learning **Swift,Flatter,Kotolin,**
+
+- 👯 I’m looking to collaborate on **Mobile apps**
+
+- 🤝 I’m looking for help with **Making awsome wedsite for My Clothe Brand**
+
+- 📫 How to reach me **Kosei3312435@icloud.com**
+
+- 🏋️ My favorite things to do **I love playing tennis 🎾**
+
 
 <h1 align="left">Git Status :</h1>
 
