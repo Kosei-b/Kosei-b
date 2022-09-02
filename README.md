@@ -35,7 +35,6 @@
 
 - 🏋️ My favorite things to do **I love playing tennis 🎾**
 
-
 <h1 align="left">Git Status :</h1>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kosei-b&theme=solarized_dark)
