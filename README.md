@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **Kosei3312435@icloud.com**
 
-- 🏋️ My favorite things to do **I love playing tennis 🎾**
+- 🏋️ My favorite things to do **I love playing tennis🎾**
 
 <h1 align="left">Git Status :</h1>
 
