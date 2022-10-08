@@ -11,6 +11,7 @@
     <img height="20" src="https://img.shields.io/github/followers/Kosei-b?label=follow&logo=github&style=flat" />
 </p>
 
+
 <h1 align="left">About Me :</h1>
 
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s" width="300" > 
