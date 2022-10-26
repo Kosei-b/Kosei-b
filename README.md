@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **Kosei3312435@icloud.com**
 
-- 🏋️ My favorite things to do ** playing tennis🎾 **
+- 🏋️ My favorite things to do playing tennis🎾 
 
 <h1 align="left">Git Status :</h1>
 
