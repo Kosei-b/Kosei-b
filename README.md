@@ -16,7 +16,7 @@
 
 <img align='right' src="https://media1.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif?cid=ecf05e47haehkm1et5lgny235zc0ug0nx8gjgx407mb0saq3&rid=giphy.gif&ct=s" width="300" > 
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://kosei-ban-portofolio.me/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://www.kosei-ban-portofolio.me)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wQyCbBLXKi0rGsJf-crN62JZqbYWi18P/view?usp=sharing)
 
