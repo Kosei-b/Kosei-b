@@ -24,10 +24,6 @@
 
 - 🌱 I’m currently learning **Swift,Flatter,Kotolin,**
 
-- 👯 I’m looking to collaborate on **Mobile apps**
-
-- 🤝 I’m looking for help with **Making awsome wedsite for My Clothe Brand**
-
 - 📫 How to reach me **Kosei3312435@icloud.com**
 
 - 🏋️ My favorite things to do ** playing tennis🎾 **
