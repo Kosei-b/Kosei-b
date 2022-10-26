@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi,I'm Kosei Ban 👋</h1>
 <h3 align="center">iOS / Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/kosei-ban-921081233/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
