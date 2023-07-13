@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://kosei-b.github.io/KoseiBanPortfolio-vol.2/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rxGahGEo-zN9cr9kjocvCejXSBxOeOY0/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bF5LoyQ6WZYPA7JWEx5Eix9somLJNnfV/view?usp=drive_link)
 
 - 🔭 I’m currently working on **iOS App Development**
 
